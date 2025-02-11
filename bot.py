@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import Message
 
 # Bot tokenini kiriting
-API_TOKEN = '7727547560:AAEXu3lMe05851MICZ3a5BhuK0z_qNw571k'
+API_TOKEN = 'Token'
 
 # Loglarni sozlash
 logging.basicConfig(level=logging.INFO)
